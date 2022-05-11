@@ -39,6 +39,6 @@
 -- Irá retornar 200 OK com Id, Título, Done e Data atualizados.
 -----------------------------------------------------------------------------------------
 
-- Método DELETE : https://localhost:5001/v1/apis/1 : Delete um objeto por Id.
+- Método DELETE : https://localhost:5001/v1/apis/1 : Deleta um objeto por Id.
 
 
