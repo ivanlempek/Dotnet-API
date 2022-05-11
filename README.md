@@ -24,19 +24,19 @@
 - {
     "title": ""
   }
->> Irá retornar um erro de campo de título requerido.
+-- Irá retornar um erro de campo de título requerido.
 
 - {
     "title": "Cadastrando um objeto com ASP.NET e EntityFramework!!"
   }
->> Irá retornar 201 created com Id, Título, Done e Data de criação.
+-- Irá retornar 201 created com Id, Título, Done e Data de criação.
 -----------------------------------------------------------------------------------------
 
 - Método PUT : https://localhost:5001/v1/apis/1 > Body > raw > JSON : Atualização de um objeto por Id;
 - {
     "title": "Atualizando um objeto dentro do SQLite!!"
   }
->> Irá retornar 200 OK com Id, Título, Done e Data atualizados.
+-- Irá retornar 200 OK com Id, Título, Done e Data atualizados.
 -----------------------------------------------------------------------------------------
 
 - Método DELETE : https://localhost:5001/v1/apis/1 : Delete um objeto por Id.
